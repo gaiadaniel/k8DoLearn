@@ -10,9 +10,15 @@ Steps
 Anyway will have some understanding. The manual for above will be added here. The folder structure as of now is like maven kind, that means
 
 /main
+
 /test
+
 /main/src
+
 /main/resource
+
 /main/src/dockerFiles
+
 /main/src/k8script
+
 /main/src/driver
